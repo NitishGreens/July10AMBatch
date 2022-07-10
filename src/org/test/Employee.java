@@ -19,4 +19,8 @@ public class Employee {
 		System.out.println("test3");
 	}
 
+	public void test4() {
+		System.out.println("test4");
+	}
+
 }
